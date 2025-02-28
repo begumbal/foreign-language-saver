@@ -1,1 +1,21 @@
 
+
+### **📌 README.md for "Word Saver"**  
+```md
+# 📖 Foreign Language Word Saver 🚀  
+
+This project is a **browser extension or app** that helps users **save foreign words** while browsing and automatically **creates flashcards** for memorization.  
+
+## 🌟 Features  
+✔ **Save any word** while browsing the web.  
+✔ **Instant translation** and example sentences.  
+✔ **Auto-generated flashcards** for later review.  
+✔ **Tracks progress** and learning history.  
+✔ Supports **multiple languages (English, French, Spanish, etc.)**  
+
+## 🔧 Technologies Used  
+- **JavaScript (Chrome Extension / Web App)**  
+- **Python (Backend - Flask/FastAPI) (Optional)**  
+- **Google Translate API** (for automatic translations)  
+- **Local Storage / Firebase** (to save words & progress)  
+
